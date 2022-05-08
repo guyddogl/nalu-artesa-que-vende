@@ -13,4 +13,4 @@ Links: <a href="https://naluprojetoscriativos.com.br/artesa-que-vende/cpl/" targ
 <hr/>
 
 ### <a href="https://guyddogl.github.io/nalu-artesa-que-vende-cpl/" target="_Blank">Preview</a>
-<a href="https://guyddogl.github.io/nalu-artesa-que-vende-cpl/" target="_Blank"><img src="https://guyddogl.github.io/nalu-artesa-que-vende-cpl/img/screencapture-nalu-artesa-que-vende-cpl.webp" alt="Screenshot do Projeto" /></a>
+<a href="https://guyddogl.github.io/nalu-artesa-que-vende-cpl/" target="_Blank"><img src="https://guyddogl.github.io/nalu-artesa-que-vende-cpl/assets/img/screencapture-nalu-artesa-que-vende-cpl.webp" alt="Screenshot do Projeto" /></a>
