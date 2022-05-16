@@ -23,5 +23,7 @@ Carta de Vendas: <a href="https://naluprojetoscriativos.com.br/artesa-que-vende/
 ### <a href="https://guyddogl.github.io/nalu-artesa-que-vende/cpt/" target="_Blank">Preview Captura</a>
 <a href="https://guyddogl.github.io/nalu-artesa-que-vende/cpt/" target="_Blank"><img src="https://guyddogl.github.io/nalu-artesa-que-vende/cpt/assets/img/screencapture-nalu-artesa-que-vende-cpt.webp" alt="Screenshot do Projeto" /></a>
 
+<hr/>
+
 ### <a href="https://guyddogl.github.io/nalu-artesa-que-vende/cpl/" target="_Blank">Preview CPLs</a>
-<a href="https://guyddogl.github.io/nalu-artesa-que-vende-cpl/" target="_Blank"><img src="https://guyddogl.github.io/nalu-artesa-que-vende/cpl/assets/img/screenshoot-nalu-artesa-que-vende-cpl.webp" alt="Screenshot do Projeto" /></a>
+<a href="https://guyddogl.github.io/nalu-artesa-que-vende/cpl/" target="_Blank"><img src="https://guyddogl.github.io/nalu-artesa-que-vende/cpl/assets/img/screenshoot-nalu-artesa-que-vende-cpl.webp" alt="Screenshot do Projeto" /></a>
