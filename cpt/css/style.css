@@ -1,0 +1,53 @@
+/* 
+grid-breakpoints
+xs: 0,
+sm: 576px,
+md: 768px,
+lg: 992px,
+xl: 1200px,
+xxl: 1400px
+*/
+
+body {
+    background: #000000;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+}
+
+.bg-banner {
+    background: url('../img/bg-banner.webp') left top no-repeat #000000;
+}
+
+.numero {
+    background: linear-gradient(to bottom right, #e49abb 5%, #63cdd6);
+    font-weight: 900;
+    color: #000000;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.bg-perfil {
+    background: linear-gradient(to bottom right, #e49abb 5%, #63cdd6);
+}
+
+.frase {
+    border-width: 4px;
+    border-style: solid;
+    border-image: linear-gradient(to right, darkblue, darkorchid) 1;
+}
+  
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    .bg-banner {
+        background: url('../img/bg-banner.webp') left top no-repeat #000000;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    .bg-banner {
+        background: url('../img/bg-banner.webp') center top no-repeat #000000;
+        background-size: cover;
+    }
+}
