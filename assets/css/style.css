@@ -1,51 +1,5 @@
-/* 
-grid-breakpoints
-xs: 0,
-sm: 576px,
-md: 768px,
-lg: 992px,
-xl: 1200px,
-xxl: 1400px
-*/
-
 body {
-    background: #000000;
+    background: #233c63;
     font-family: 'Roboto', sans-serif;
     color: #ffffff;
-}
-
-.bg-logo {
-    background: linear-gradient(to right, #28464b, #1e7576);
-}
-
-.bg-banner {
-    background: url('../img/bg-banner.webp') center top repeat #ffffff;
-    background-size: contain;
-}
-
-.youtube-thumb {
-	cursor: pointer;
-    border-radius: 10px;
-}
-
-.bg-aulas {
-    background: linear-gradient(to right, #e49abb 5%, #63cdd6);
-}
-
-.thumb-aulas {
-    max-height: 250px;
-}
-
-/* Medium devices (tablets, 768px and up) */
-@media (min-width: 768px) {
-    .bg-banner {
-        background: url('../img/bg-banner.webp') center top repeat-x #ffffff;
-    }
-}
-
-/* Large devices (desktops, 992px and up) */
-@media (min-width: 992px) {
-    .bg-banner {
-        background: url('../img/bg-banner.webp') center top repeat-x #ffffff;
-    }
 }
