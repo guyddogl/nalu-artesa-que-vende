@@ -1,0 +1,28 @@
+/* 
+grid-breakpoints
+xs: 0,
+sm: 576px,
+md: 768px,
+lg: 992px,
+xl: 1200px,
+xxl: 1400px
+*/
+
+body {
+    background: #000000;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+}
+
+.obg-background {
+    background: url('../img/obg-background.webp') center top no-repeat #000000;
+    background-size: cover;
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+}
