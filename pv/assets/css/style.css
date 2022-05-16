@@ -1,0 +1,51 @@
+/* 
+grid-breakpoints
+xs: 0,
+sm: 576px,
+md: 768px,
+lg: 992px,
+xl: 1200px,
+xxl: 1400px
+*/
+
+/* Works on Firefox */
+* {
+    scrollbar-width: large;
+    scrollbar-color: #0e0638 #ac12ae;
+  }
+  
+/* Works on Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+width: 20px;
+}
+
+*::-webkit-scrollbar-track {
+background: #0e0638;
+}
+
+*::-webkit-scrollbar-thumb {
+background-color: #ac12ae;
+border: 2px solid #0e0638;
+}
+
+body {
+    background: #000000;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+}
+
+.bg-banner {
+    background: url('../img/bg-banner.webp') center top repeat #0e0638;
+    background-size: cover;
+}
+  
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+}
