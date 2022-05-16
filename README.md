@@ -1,7 +1,15 @@
-# nalu-artesa-que-vende-cpl
-Página dos CPLs da Jornada Artesão que vende
+## Páginas do projeto Jornada Artesão Que Vende
 
-Links: <a href="https://naluprojetoscriativos.com.br/artesa-que-vende/cpl/" target="_Blank">Production</a> | <a href="https://guyddogl.github.io/nalu-artesa-que-vende-cpl/" target="_Blank">Alternative</a>
+### Links: 
+Página de captura: <a href="https://naluprojetoscriativos.com.br/artesa-que-vende/cpt/" target="_Blank">Production</a> | <a href="https://guyddogl.github.io/nalu-artesa-que-vende/cpt/" target="_Blank">Alternative</a>
+
+CPLs: <a href="https://naluprojetoscriativos.com.br/artesa-que-vende/cpl/" target="_Blank">Production</a> | <a href="https://guyddogl.github.io/nalu-artesa-que-vende/cpl/" target="_Blank">Alternative</a>
+
+Página de vendas: <a href="https://naluprojetoscriativos.com.br/artesa-que-vende/pv/" target="_Blank">Production</a> | <a href="https://guyddogl.github.io/nalu-artesa-que-vende/pv/" target="_Blank">Alternative</a>
+
+Página de obrigado: <a href="https://naluprojetoscriativos.com.br/artesa-que-vende/obg/" target="_Blank">Production</a> | <a href="https://guyddogl.github.io/nalu-artesa-que-vende/obg/" target="_Blank">Alternative</a>
+
+Carta de Vendas: <a href="https://naluprojetoscriativos.com.br/artesa-que-vende/carta/" target="_Blank">Production</a> | <a href="https://guyddogl.github.io/nalu-artesa-que-vende/carta/" target="_Blank">Alternative</a>
 <hr/>
 
 ### Tecnologias principais
@@ -12,5 +20,8 @@ Links: <a href="https://naluprojetoscriativos.com.br/artesa-que-vende/cpl/" targ
 </div>
 <hr/>
 
-### <a href="https://guyddogl.github.io/nalu-artesa-que-vende-cpl/" target="_Blank">Preview</a>
+### <a href="https://guyddogl.github.io/nalu-artesa-que-vende/cpt/" target="_Blank">Preview Captura</a>
+<a href="https://guyddogl.github.io/nalu-artesa-que-vende/cpt/" target="_Blank"><img src="https://guyddogl.github.io/nalu-artesa-que-vende/cpt/assets/img/screencapture-nalu-artesa-que-vende-cpt.webp" alt="Screenshot do Projeto" /></a>
+
+### <a href="https://guyddogl.github.io/nalu-artesa-que-vende/cpl/" target="_Blank">Preview CPLs</a>
 <a href="https://guyddogl.github.io/nalu-artesa-que-vende-cpl/" target="_Blank"><img src="https://guyddogl.github.io/nalu-artesa-que-vende-cpl/assets/img/screenshoot-nalu-artesa-que-vende-cpl.webp" alt="Screenshot do Projeto" /></a>
